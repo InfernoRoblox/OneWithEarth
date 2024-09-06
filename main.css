@@ -807,6 +807,10 @@ img {
         transition: .75s ease-out;
 
     }
+    .vids .vid{
+        height: 100;
+        width: 360px;
+    }
 
     nav a {
         box-sizing: border-box;
